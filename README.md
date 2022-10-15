@@ -3,3 +3,4 @@
 ## Инструменты:
 * Python
 * FastAPI
+* SQLAlchemy
